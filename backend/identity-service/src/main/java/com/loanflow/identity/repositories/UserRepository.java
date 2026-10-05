@@ -1,8 +1,7 @@
 package com.loanflow.identity.repositories;
 
-
+import com.loanflow.identity.entity.User;
 import com.loanflow.identity.entity.UserStatus;
-import org.apache.catalina.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

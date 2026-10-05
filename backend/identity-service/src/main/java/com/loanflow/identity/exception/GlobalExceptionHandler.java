@@ -1,4 +1,4 @@
-package com.loanflow.identity.exception;
+/*package com.loanflow.identity.exception;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;
@@ -23,4 +23,4 @@ public class GlobalExceptionHandler {
         pd.setInstance(URI.create(request.getRequestURI()));
         return pd;
     }
-}
+}*/
